@@ -3,8 +3,8 @@
 > Скопируй этот файл в папку своего шага (`steps/step-NN-.../SUBMISSION.md`) и заполни.
 > Без отчёта шаг не принимается.
 
-- **Ссылка на Pages:** https://твой-логин.github.io/kitis-de/steps/step-NN-.../
-- **Ссылка на папку шага в репозитории:** https://github.com/...
+- **Ссылка на Pages:** https://ryyzesslayer.github.io/kitis-isr/steps/step-XX-XX/check.html
+- **Ссылка на папку шага в репозитории:** https://github.com/RyyZeSslayer/kitis-isr/tree/main/steps/step-XX
 - **Автопроверка:** N / M (прогнал check.html, число честное)
 
 ## Что сделано
