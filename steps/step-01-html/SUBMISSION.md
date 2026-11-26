@@ -3,7 +3,7 @@
 > Скопируй этот файл в папку своего шага (`steps/step-NN-.../SUBMISSION.md`) и заполни.
 > Без отчёта шаг не принимается.
 
-- **Ссылка на Pages:** https://ryyzesslayer.github.io/kitis-isr/steps/step-01-html
+- **Ссылка на Pages:** https://ryyzesslayer.github.io/kitis-isr/steps/step-01-html/check.html
 - **Ссылка на папку шага в репозитории:** https://github.com/RyyZeSslayer/kitis-isr/tree/main/steps/step-01-html
 - **Автопроверка:** 13 / 13
 
