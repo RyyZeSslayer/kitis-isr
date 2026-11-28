@@ -67,6 +67,7 @@ runChecks({
       hint: 'В 10:30 идёт 2-я пара (10:10–11:40). Повесь класс .current на её .lesson-card.',
       test: function (c) {
         var el = c.doc.querySelector('.lesson-card.current');
+        // console.log(el);
         return !!el && el.textContent.indexOf('Экономика отрасли') >= 0;
       } },
 
